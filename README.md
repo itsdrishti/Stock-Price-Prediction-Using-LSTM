@@ -133,9 +133,9 @@ jupyter notebook
 
 ## 👨‍💻 Author
 
-**Sahil Rathor**
+**Drishti Panthari**
 Computer Science & Engineering Student
-Machine Learning | Deep Learning | Data Science
+Machine Learning Enthusiast
 
 ---
 
@@ -144,5 +144,3 @@ Machine Learning | Deep Learning | Data Science
 * Yahoo Finance for stock data
 * TensorFlow & Scikit-learn documentation
 * Open-source ML community
-Just tell me 👍
-```
