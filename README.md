@@ -134,7 +134,7 @@ jupyter notebook
 ## 👨‍💻 Author
 
 **Drishti Panthari**
-Computer Science & Engineering Student| 
+Computer Science & Engineering Student | 
 Machine Learning Enthusiast
 
 ---
